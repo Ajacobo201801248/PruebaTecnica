@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba tecnica BAM", "Prueba tecnica BAM\Prueba tecnica BAM.csproj", "{A110F7FB-34A3-4F04-B113-23226C4ACFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A110F7FB-34A3-4F04-B113-23226C4ACFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A110F7FB-34A3-4F04-B113-23226C4ACFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A110F7FB-34A3-4F04-B113-23226C4ACFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A110F7FB-34A3-4F04-B113-23226C4ACFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B36D6947-5C2B-4F72-B3FF-443A8F75669B}
+	EndGlobalSection
+EndGlobal
